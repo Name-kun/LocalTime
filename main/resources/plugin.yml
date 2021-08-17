@@ -1,0 +1,13 @@
+name: LocalTime
+version: ${project.version}
+main: xyz.namekun.localtime.LocalTime
+api-version: 1.17
+
+commands:
+  localtime:
+    usage: a
+    description: a
+  localtimereload:
+    usage: a
+    description: a
+    permission: localtimereload

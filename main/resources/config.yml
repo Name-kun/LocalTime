@@ -1,0 +1,21 @@
+#this table refers to https://www.timeanddate.com/time/map
+country:
+  - japan
+  - south-korea
+  - china
+  - indonesia
+  - india
+  - saudi-arabia
+  - france
+  - germany
+  - italy
+  - uk
+  - canada
+  - mexico
+  - usa
+  - argentina
+  - brazil
+  - russia
+  - turkey
+  - south-africa
+  - australia
